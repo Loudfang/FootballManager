@@ -1,0 +1,4027 @@
+﻿<xml version="1.0" encoding="UTF-8">
+<teams>
+<teamname id="ADO Den Haag" p="0" d="0" w="0" v="0" g="0" dv="0">
+<speler>
+<naam>Aaron Meijers</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>76</uithoudingsvermogen>
+<offensief>52</offensief>
+<defensief>63</defensief>
+<prijs>850000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Danny Bakker</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>64</uithoudingsvermogen>
+<offensief>48</offensief>
+<defensief>66</defensief>
+<prijs>450000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Dion Malone</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>69</uithoudingsvermogen>
+<offensief>44</offensief>
+<defensief>64</defensief>
+<prijs>550000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Gianni Zuiverloon</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>73</uithoudingsvermogen>
+<offensief>48</offensief>
+<defensief>65</defensief>
+<prijs>700000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Kevin Jansen</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>66</uithoudingsvermogen>
+<offensief>54</offensief>
+<defensief>57</defensief>
+<prijs>600000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Mathias Gehrt</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>79</uithoudingsvermogen>
+<offensief>60</offensief>
+<defensief>28</defensief>
+<prijs>1000000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Michiel Kramer</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>63</uithoudingsvermogen>
+<offensief>65</offensief>
+<defensief>34</defensief>
+<prijs>1000000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Mike van Duinen</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>75</uithoudingsvermogen>
+<offensief>67</offensief>
+<defensief>45</defensief>
+<prijs>2000000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Mitchell de Vlugt</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>72</uithoudingsvermogen>
+<offensief>58</offensief>
+<defensief>43</defensief>
+<prijs>50000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Mitchell Schet</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>85</uithoudingsvermogen>
+<offensief>62</offensief>
+<defensief>33</defensief>
+<prijs>600000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Richelo Fecunda</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>70</uithoudingsvermogen>
+<offensief>31</offensief>
+<defensief>57</defensief>
+<prijs>50000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Robin Buwalda</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>67</uithoudingsvermogen>
+<offensief>33</offensief>
+<defensief>57</defensief>
+<prijs>230000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Roland Alberg</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>75</uithoudingsvermogen>
+<offensief>66</offensief>
+<defensief>44</defensief>
+<prijs>800000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Thomas Kristensen</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>63</uithoudingsvermogen>
+<offensief>62</offensief>
+<defensief>60</defensief>
+<prijs>900000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Timothy Derijck</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>63</uithoudingsvermogen>
+<offensief>44</offensief>
+<defensief>66</defensief>
+<prijs>600000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Tyronne Ebuehi</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>80</uithoudingsvermogen>
+<offensief>33</offensief>
+<defensief>59</defensief>
+<prijs>50000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Vidarell Merencia</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>64</uithoudingsvermogen>
+<offensief>44</offensief>
+<defensief>58</defensief>
+<prijs>75000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Vito Wormgoor</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>50</uithoudingsvermogen>
+<offensief>36</offensief>
+<defensief>64</defensief>
+<prijs>190000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Wilfried Kanon</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>60</uithoudingsvermogen>
+<offensief>38</offensief>
+<defensief>66</defensief>
+<prijs>500000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Xander Houtkoop</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>84</uithoudingsvermogen>
+<offensief>62</offensief>
+<defensief>24</defensief>
+<prijs>600000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Robert Zwinkels</naam>
+<type>doelman</type>
+<uithoudingsvermogen>0</uithoudingsvermogen>
+<offensief>0</offensief>
+<defensief>65</defensief>
+<prijs>250000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Tim Coremans</naam>
+<type>doelman</type>
+<uithoudingsvermogen>0</uithoudingsvermogen>
+<offensief>0</offensief>
+<defensief>61</defensief>
+<prijs>75000</prijs>
+<status></status>
+</speler>
+</teamname>
+<teamname id="Ajax" p="0" d="0" w="0" v="0" g="0" dv="0">
+ <speler> 
+<naam>Anwar El Ghazi</naam>
+<prijs>750000</prijs>
+<type>aanvaller</type>
+<offensief>69</offensief>
+<defensief>31</defensief>
+<uithoudingsvermogen>58</uithoudingsvermogen>
+<status></status>
+</speler> 
+<speler> 
+<naam>Arek Milik</naam>
+<prijs>2500000</prijs>
+<type>aanvaller</type>
+<offensief>67</offensief>
+<defensief>41</defensief>
+<uithoudingsvermogen>72</uithoudingsvermogen>
+<status></status>
+</speler> 
+<speler> 
+<naam>Davy Klaassen</naam>
+<prijs>4500000</prijs>
+<type>middenvelder</type>
+<offensief>75</offensief>
+<defensief>63</defensief>
+<uithoudingsvermogen>79</uithoudingsvermogen>
+<status></status>
+</speler> 
+<speler> 
+<naam>Lasse Schøne</naam>
+<prijs>7000000</prijs>
+<type>aanvaller</type>
+<offensief>77</offensief>
+<defensief>54</defensief>
+<uithoudingsvermogen>74</uithoudingsvermogen>
+<status></status>
+</speler> 
+<speler> 
+<naam>Viktor Fischer</naam>
+<prijs>250000</prijs>
+<type>aanvaller</type>
+<offensief>73</offensief>
+<defensief>38</defensief>
+<uithoudingsvermogen>72</uithoudingsvermogen>
+<status></status>
+</speler> 
+<speler> 
+<naam>Kolbeinn Sigþórsson</naam>
+<prijs>5000000</prijs>
+<type>aanvaller</type>
+<offensief>71</offensief>
+<defensief>43</defensief>
+<uithoudingsvermogen>74</uithoudingsvermogen>
+<status></status>
+</speler>
+<speler> 
+<naam>Ricardo Kishna</naam>
+<prijs>120000</prijs>
+<type>aanvaller</type>
+<offensief>63</offensief>
+<defensief>34</defensief>
+<uithoudingsvermogen>62</uithoudingsvermogen>
+<status></status>
+</speler> 
+<speler> 
+<naam>Richairo Živkovic</naam>
+<prijs>4000000</prijs>
+<type>aanvaller</type>
+<offensief>68</offensief>
+<defensief>32</defensief>
+<uithoudingsvermogen>77</uithoudingsvermogen>
+<status></status>
+</speler> 
+<speler> 
+<naam>Tobias Sana</naam>
+<prijs>500000</prijs>
+<type>aanvaller</type>
+<offensief>63</offensief>
+<defensief>30</defensief>
+<uithoudingsvermogen>67</uithoudingsvermogen>
+<status></status>
+</speler> 
+<speler> 
+<naam>Robert Muric</naam>
+<prijs>250000</prijs>
+<type>aanvaller</type>
+<offensief>55</offensief>
+<defensief>32</defensief>
+<uithoudingsvermogen>32</uithoudingsvermogen>
+<status></status>
+</speler> 
+<speler> 
+<naam>Thulani Serero</naam>
+<prijs>3000000</prijs>
+<type>middenvelder</type>
+<offensief>61</offensief>
+<defensief>48</defensief>
+<uithoudingsvermogen>87</uithoudingsvermogen>
+<status></status>
+</speler> 
+<speler> 
+<naam>Niki Zimling</naam>
+<prijs>2500000</prijs>
+<type>middenvelder</type>
+<offensief>70</offensief>
+<defensief>73</defensief>
+<uithoudingsvermogen>86</uithoudingsvermogen>
+<status></status>
+</speler> 
+<speler> 
+<naam>Lerin Duarte</naam>
+<prijs>2500000</prijs>
+<type>middenvelder</type>
+<offensief>77</offensief>
+<defensief>63</defensief>
+<uithoudingsvermogen>77</uithoudingsvermogen>
+<status></status>
+</speler> 
+<speler> 
+<naam>Nick Viergever</naam>
+<prijs>4000000</prijs>
+<type>middenvelder</type>
+<offensief>57</offensief>
+<defensief>73</defensief>
+<uithoudingsvermogen>80</uithoudingsvermogen>
+<status></status>
+</speler> 
+<speler> 
+<naam>Lucas Andersen</naam>
+<prijs>750000</prijs>
+<type>middenvelder</type>
+<offensief>62</offensief>
+<defensief>33</defensief>
+<uithoudingsvermogen>58</uithoudingsvermogen>
+<status></status>
+</speler> 
+<speler> 
+<naam>Riechedly Bazoer</naam>
+<prijs>400000</prijs>
+<type>middenvelder</type>
+<offensief>56</offensief>
+<defensief>62</defensief>
+<uithoudingsvermogen>68</uithoudingsvermogen>
+<status></status>
+</speler> 
+<speler> 
+<naam>Niklas Moisander</naam>
+<prijs>6500000</prijs>
+<type>verdediger</type>
+<offensief>58</offensief>
+<defensief>76</defensief>
+<uithoudingsvermogen>72</uithoudingsvermogen>
+<status></status>
+</speler> 
+<speler> 
+<naam>Joël Veltman</naam>
+<prijs>4500000</prijs>
+<type>verdediger</type>
+<offensief>48</offensief>
+<defensief>76</defensief>
+<uithoudingsvermogen>68</uithoudingsvermogen>
+<status></status>
+</speler> 
+<speler> 
+<naam>Nicolai Boilesen</naam>
+<prijs>2000000</prijs>
+<type>verdediger</type>
+<offensief>56</offensief>
+<defensief>62</defensief>
+<uithoudingsvermogen>77</uithoudingsvermogen>
+<status></status>
+</speler> 
+<speler> 
+<naam>Ricardo van Rhijn</naam>
+<prijs>4000000</prijs>
+<type>verdediger</type>
+<offensief>61</offensief>
+<defensief>70</defensief>
+<uithoudingsvermogen>87</uithoudingsvermogen>
+<status></status>
+</speler> 
+<speler> 
+<naam>Stefano Denswil</naam>
+<prijs>3000000</prijs>
+<type>verdediger</type>
+<offensief>57</offensief>
+<defensief>70</defensief>
+<uithoudingsvermogen>64</uithoudingsvermogen>
+<status></status>
+</speler> 
+<speler> 
+<naam>Mike van der Hoorn</naam>
+<prijs>2000000</prijs>
+<type>verdediger</type>
+<offensief>35</offensief>
+<defensief>70</defensief>
+<uithoudingsvermogen>65</uithoudingsvermogen>
+<status></status>
+</speler> 
+<speler> 
+<naam>Ruben Ligeon</naam>
+<prijs>600000</prijs>
+<type>verdediger</type>
+<offensief>56</offensief>
+<defensief>62</defensief>
+<uithoudingsvermogen>75</uithoudingsvermogen>
+<status></status>
+</speler> 
+<speler> 
+<naam>Jaïro Riedewald</naam>
+<prijs>500000</prijs>
+<type>verdediger</type>
+<offensief>50</offensief>
+<defensief>63</defensief>
+<uithoudingsvermogen>58</uithoudingsvermogen>
+<status></status>
+</speler> 
+<speler> 
+<naam>Kenny Tete</naam>
+<prijs>250000</prijs>
+<type>verdediger</type>
+<offensief>43</offensief>
+<defensief>62</defensief>
+<uithoudingsvermogen>62</uithoudingsvermogen>
+<status></status>
+</speler> 
+<speler> 
+<naam>Jasper Cillessen</naam>
+<prijs>8000000</prijs>
+<type>doelman</type>
+<offensief>0</offensief>
+<defensief>79</defensief>
+<uithoudingsvermogen>0</uithoudingsvermogen>
+<status></status>
+</speler> 
+<speler> 
+<naam>Diederik Boer</naam>
+<prijs>800000</prijs>
+<type>doelman</type>
+<offensief>0</offensief>
+<defensief>70</defensief>
+<uithoudingsvermogen>0</uithoudingsvermogen>
+<status></status>
+</speler>
+<speler> 
+<naam>Peter Leeuwenburgh</naam>
+<prijs>100000</prijs>
+<type>doelman</type>
+<offensief>0</offensief>
+<defensief>64</defensief>
+<uithoudingsvermogen>0</uithoudingsvermogen>
+<status></status>
+</speler>
+</teamname> 
+<teamname id="AZ" p="0" d="0" w="0" v="0" g="0" dv="0">
+<speler>
+<naam>Aron Jóhannsson</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>78</uithoudingsvermogen>
+<offensief>77</offensief>
+<defensief>29</defensief>
+<prijs>4000000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Celso Ortiz</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>65</uithoudingsvermogen>
+<offensief>54</offensief>
+<defensief>68</defensief>
+<prijs>2000000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Derrick Luckassen</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>76</uithoudingsvermogen>
+<offensief>33</offensief>
+<defensief>59</defensief>
+<prijs>250000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Djavan Anderson</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>76</uithoudingsvermogen>
+<offensief>34</offensief>
+<defensief>62</defensief>
+<prijs>200000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Eli Babalj</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>60</uithoudingsvermogen>
+<offensief>60</offensief>
+<defensief>30</defensief>
+<prijs>300000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Esteban Alvarado</naam>
+<type>doelman</type>
+<uithoudingsvermogen>77</uithoudingsvermogen>
+<offensief>70</offensief>
+<defensief>45</defensief>
+<prijs>3000000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Guus Hupperts</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>84</uithoudingsvermogen>
+<offensief>66</offensief>
+<defensief>42</defensief>
+<prijs>1500000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Jan Wuytens</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>47</uithoudingsvermogen>
+<offensief>46</offensief>
+<defensief>70</defensief>
+<prijs>750000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Jeffrey Gouweleeuw</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>75</uithoudingsvermogen>
+<offensief>54</offensief>
+<defensief>73</defensief>
+<prijs>2500000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Markus Henriksen</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>68</uithoudingsvermogen>
+<offensief>68</offensief>
+<defensief>64</defensief>
+<prijs>2000000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Mattias Johansson</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>85</uithoudingsvermogen>
+<offensief>46</offensief>
+<defensief>66</defensief>
+<prijs>2000000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Mikhail Rosheuvel</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>86</uithoudingsvermogen>
+<offensief>59</offensief>
+<defensief>25</defensief>
+<prijs>800000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Muamer Tankovic</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>71</uithoudingsvermogen>
+<offensief>63</offensief>
+<defensief>28</defensief>
+<prijs>4000000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Nemanja Gudelj</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>67</uithoudingsvermogen>
+<offensief>65</offensief>
+<defensief>68</defensief>
+<prijs>5000000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Sergio Rochet</naam>
+<type>doelman</type>
+<uithoudingsvermogen>68</uithoudingsvermogen>
+<offensief>59</offensief>
+<defensief>49</defensief>
+<prijs>500000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Simon Poulsen</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>76</uithoudingsvermogen>
+<offensief>58</offensief>
+<defensief>64</defensief>
+<prijs>1000000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Aeven Berghuis</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>75</uithoudingsvermogen>
+<offensief>74</offensief>
+<defensief>37</defensief>
+<prijs>1500000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Thom Haye</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>72</uithoudingsvermogen>
+<offensief>56</offensief>
+<defensief>55</defensief>
+<prijs>600000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Viktor Elm</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>34</uithoudingsvermogen>
+<offensief>70</offensief>
+<defensief>64</defensief>
+<prijs>250000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Wesley Hoedt</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>53</uithoudingsvermogen>
+<offensief>34</offensief>
+<defensief>61</defensief>
+<prijs>200000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Yves De Winter</naam>
+<type>doelman</type>
+<uithoudingsvermogen>71</uithoudingsvermogen>
+<offensief>65</offensief>
+<defensief>48</defensief>
+<prijs>500000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Ridgeciano Haps</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>84</uithoudingsvermogen>
+<offensief>48</offensief>
+<defensief>63</defensief>
+<prijs>300000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Martin Hansen</naam>
+<type>doelman</type>
+<uithoudingsvermogen>0</uithoudingsvermogen>
+<offensief>0</offensief>
+<defensief>60</defensief>
+<prijs>600000</prijs>
+<status></status>
+</speler>
+</teamname>
+<teamname id="Excelsior" p="0" d="0" w="0" v="0" g="0" dv="0">
+<speler>
+<naam>Adil Auassar</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>45</uithoudingsvermogen>
+<offensief>55</offensief>
+<defensief>62</defensief>
+<prijs>400000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Bas Kuipers</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>65</uithoudingsvermogen>
+<offensief>38</offensief>
+<defensief>60</defensief>
+<prijs>200000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Carlo de Reuver</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>65</uithoudingsvermogen>
+<offensief>59</offensief>
+<defensief>28</defensief>
+<prijs>354000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Daan Blij</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>68</uithoudingsvermogen>
+<offensief>63</offensief>
+<defensief>51</defensief>
+<prijs>865000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Daan Bovenberg</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>56</uithoudingsvermogen>
+<offensief>48</offensief>
+<defensief>64</defensief>
+<prijs>200000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Daan Smith</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>53</uithoudingsvermogen>
+<offensief>37</offensief>
+<defensief>61</defensief>
+<prijs>987000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Daryl van Mieghem</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>86</uithoudingsvermogen>
+<offensief>54</offensief>
+<defensief>25</defensief>
+<prijs>300000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Elso Brito</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>70</uithoudingsvermogen>
+<offensief>48</offensief>
+<defensief>58</defensief>
+<prijs>75000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Jeff Aans</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>63</uithoudingsvermogen>
+<offensief>56</offensief>
+<defensief>64</defensief>
+<prijs>978000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Jordan Botaka</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>86</uithoudingsvermogen>
+<offensief>62</offensief>
+<defensief>27</defensief>
+<prijs>400000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Jurgen Mattheij</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>54</uithoudingsvermogen>
+<offensief>43</offensief>
+<defensief>57</defensief>
+<prijs>100000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Kevin Vermeulen</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>65</uithoudingsvermogen>
+<offensief>56</offensief>
+<defensief>56</defensief>
+<prijs>175000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Khalid Karami</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>70</uithoudingsvermogen>
+<offensief>38</offensief>
+<defensief>61</defensief>
+<prijs>300000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Lars Hutten</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>69</uithoudingsvermogen>
+<offensief>66</offensief>
+<defensief>36</defensief>
+<prijs>346000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Marko Maletic</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>53</uithoudingsvermogen>
+<offensief>61</offensief>
+<defensief>29</defensief>
+<prijs>2340000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Ninos Gouriye</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>73</uithoudingsvermogen>
+<offensief>70</offensief>
+<defensief>36</defensief>
+<prijs>700000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Richard Aolte</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>69</uithoudingsvermogen>
+<offensief>58</offensief>
+<defensief>40</defensief>
+<prijs>346000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Rick Kruys</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>51</uithoudingsvermogen>
+<offensief>54</offensief>
+<defensief>58</defensief>
+<prijs>300000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Sander Fischer</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>64</uithoudingsvermogen>
+<offensief>36</offensief>
+<defensief>64</defensief>
+<prijs>744000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Jordy Deckers</naam>
+<type>doelman</type>
+<uithoudingsvermogen>0</uithoudingsvermogen>
+<offensief>0</offensief>
+<defensief>63</defensief>
+<prijs>250000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Alessandro Damen</naam>
+<type>doelman</type>
+<uithoudingsvermogen>0</uithoudingsvermogen>
+<offensief>0</offensief>
+<defensief>59</defensief>
+<prijs>50000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Tom van Weert</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>65</uithoudingsvermogen>
+<offensief>64</offensief>
+<defensief>27</defensief>
+<prijs>1200000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Kevin van Diermen</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>61</uithoudingsvermogen>
+<offensief>27</offensief>
+<defensief>63</defensief>
+<prijs>300000</prijs>
+<status></status>
+</speler>
+</teamname>
+<teamname id="FC Dordrecht" p="0" d="0" w="0" v="0" g="0" dv="0">
+<speler>
+<naam>Adnan Alisic</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>65</uithoudingsvermogen>
+<offensief>54</offensief>
+<defensief>45</defensief>
+<prijs>758000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Everon Pisas</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>77</uithoudingsvermogen>
+<offensief>50</offensief>
+<defensief>52</defensief>
+<prijs>1230000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Funso Ojo</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>71</uithoudingsvermogen>
+<offensief>63</offensief>
+<defensief>65</defensief>
+<prijs>1623000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Giovanni Korte</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>79</uithoudingsvermogen>
+<offensief>64</offensief>
+<defensief>28</defensief>
+<prijs>1200000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Giovanno Godeken</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>66</uithoudingsvermogen>
+<offensief>47</offensief>
+<defensief>49</defensief>
+<prijs>930000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Ilias Haddad</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>66</uithoudingsvermogen>
+<offensief>47</offensief>
+<defensief>62</defensief>
+<prijs>720000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Javier Vet</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>65</uithoudingsvermogen>
+<offensief>51</offensief>
+<defensief>46</defensief>
+<prijs>970050</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Jeffrey Fortes</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>78</uithoudingsvermogen>
+<offensief>45</offensief>
+<defensief>61</defensief>
+<prijs>643000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Jordy van Deelen</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>71</uithoudingsvermogen>
+<offensief>31</offensief>
+<defensief>62</defensief>
+<prijs>2340000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Joris van Overeem</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>69</uithoudingsvermogen>
+<offensief>53</offensief>
+<defensief>55</defensief>
+<prijs>978000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Mart Lieder</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>68</uithoudingsvermogen>
+<offensief>66</offensief>
+<defensief>28</defensief>
+<prijs>354000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Marvin Peersman</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>73</uithoudingsvermogen>
+<offensief>47</offensief>
+<defensief>64</defensief>
+<prijs>1200000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Mohamed Hamdaoui</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>72</uithoudingsvermogen>
+<offensief>63</offensief>
+<defensief>26</defensief>
+<prijs>300000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Nando Wormgoor</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>54</uithoudingsvermogen>
+<offensief>32</offensief>
+<defensief>61</defensief>
+<prijs>700000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Rick ten Voorde</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>65</uithoudingsvermogen>
+<offensief>65</offensief>
+<defensief>36</defensief>
+<prijs>1623000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Ricky van Haaren</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>54</uithoudingsvermogen>
+<offensief>55</offensief>
+<defensief>52</defensief>
+<prijs>430000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Rihairo Meulens</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>86</uithoudingsvermogen>
+<offensief>62</offensief>
+<defensief>22</defensief>
+<prijs>3540000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Robin Gosens</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>66</uithoudingsvermogen>
+<offensief>47</offensief>
+<defensief>58</defensief>
+<prijs>1540000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Sem de Wit</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>64</uithoudingsvermogen>
+<offensief>46</offensief>
+<defensief>54</defensief>
+<prijs>2540000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>William Troost-Ekong</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>68</uithoudingsvermogen>
+<offensief>26</offensief>
+<defensief>61</defensief>
+<prijs>354000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Filip Kurto</naam>
+<type>doelman</type>
+<uithoudingsvermogen>0</uithoudingsvermogen>
+<offensief>0</offensief>
+<defensief>63</defensief>
+<prijs>930000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Robbert te Loeke</naam>
+<type>doelman</type>
+<uithoudingsvermogen>0</uithoudingsvermogen>
+<offensief>0</offensief>
+<defensief>62</defensief>
+<prijs>760000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Virgil Deen</naam>
+<type>doelman</type>
+<uithoudingsvermogen>0</uithoudingsvermogen>
+<offensief>0</offensief>
+<defensief>58</defensief>
+<prijs>300000</prijs>
+<status></status>
+</speler>
+</teamname>
+<teamname id="FC Groningen" p="0" d="0" w="0" v="0" g="0" dv="0"> 
+<speler>
+<naam>Burak Saban</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>67</uithoudingsvermogen>
+<offensief>50</offensief>
+<defensief>43</defensief>
+<prijs>60000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Danny Hoesen</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>79</uithoudingsvermogen>
+<offensief>67</offensief>
+<defensief>29</defensief>
+<prijs>354000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Dino Islamovic</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>50</uithoudingsvermogen>
+<offensief>58</offensief>
+<defensief>29</defensief>
+<prijs>550000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Eric Botteghin</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>39</uithoudingsvermogen>
+<offensief>37</offensief>
+<defensief>76</defensief>
+<prijs>354000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Género Zeefuik</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>40</uithoudingsvermogen>
+<offensief>67</offensief>
+<defensief>32</defensief>
+<prijs>600000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Hans Hateboer</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>72</uithoudingsvermogen>
+<offensief>41</offensief>
+<defensief>65</defensief>
+<prijs>300000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Henk Bos</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>71</uithoudingsvermogen>
+<offensief>58</offensief>
+<defensief>27</defensief>
+<prijs>760000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Hilal Ben Moussa</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>67</uithoudingsvermogen>
+<offensief>54</offensief>
+<defensief>30</defensief>
+<prijs>930000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Jarchinio Antonia</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>91</uithoudingsvermogen>
+<offensief>56</offensief>
+<defensief>26</defensief>
+<prijs>970050</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Johan Kappelhof</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>71</uithoudingsvermogen>
+<offensief>36</offensief>
+<defensief>66</defensief>
+<prijs>987000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Lorenzo Burnet</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>81</uithoudingsvermogen>
+<offensief>41</offensief>
+<defensief>64</defensief>
+<prijs>865000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Maikel Kieftenbeld</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>71</uithoudingsvermogen>
+<offensief>66</offensief>
+<defensief>60</defensief>
+<prijs>760000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Martijn van der Laan</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>73</uithoudingsvermogen>
+<offensief>50</offensief>
+<defensief>66</defensief>
+<prijs>657000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Michael de Leeuw</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>64</uithoudingsvermogen>
+<offensief>65</offensief>
+<defensief>42</defensief>
+<prijs>970050</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Nick Bakker</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>72</uithoudingsvermogen>
+<offensief>33</offensief>
+<defensief>64</defensief>
+<prijs>500000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Nick van der Velden</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>59</uithoudingsvermogen>
+<offensief>67</offensief>
+<defensief>58</defensief>
+<prijs>970050</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Rasmus Lindgren</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>45</uithoudingsvermogen>
+<offensief>65</offensief>
+<defensief>62</defensief>
+<prijs>930000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Tjaronn Chery</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>79</uithoudingsvermogen>
+<offensief>73</offensief>
+<defensief>30</defensief>
+<prijs>987000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Tom Hiariej</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>72</uithoudingsvermogen>
+<offensief>55</offensief>
+<defensief>65</defensief>
+<prijs>300000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Yoëll van Nieff</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>66</uithoudingsvermogen>
+<offensief>63</offensief>
+<defensief>64</defensief>
+<prijs>120000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Sergio Padt</naam>
+<type>doelman</type>
+<uithoudingsvermogen>0</uithoudingsvermogen>
+<offensief>0</offensief>
+<defensief>75</defensief>
+<prijs>1200000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Stefan van der Lei</naam>
+<type>doelman</type>
+<uithoudingsvermogen>0</uithoudingsvermogen>
+<offensief>0</offensief>
+<defensief>72</defensief>
+<prijs>100000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Peter van der vlag</naam>
+<type>doelman</type>
+<uithoudingsvermogen>0</uithoudingsvermogen>
+<offensief>0</offensief>
+<defensief>64</defensief>
+<prijs>100000</prijs>
+<status></status>
+</speler>
+</teamname>
+<teamname id="FC Twente" p="0" d="0" w="0" v="0" g="0" dv="0">
+<speler>
+<naam>Andreas Bjelland</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>54</uithoudingsvermogen>
+<offensief>44</offensief>
+<defensief>76</defensief>
+<prijs>97000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Bilal Ould-Chikh</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>76</uithoudingsvermogen>
+<offensief>56</offensief>
+<defensief>25</defensief>
+<prijs>987000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Cuco Martina</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>77</uithoudingsvermogen>
+<offensief>52</offensief>
+<defensief>68</defensief>
+<prijs>55400</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Darryl Lachman</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>70</uithoudingsvermogen>
+<offensief>46</offensief>
+<defensief>72</defensief>
+<prijs>930000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Dico Koppers</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>67</uithoudingsvermogen>
+<offensief>42</offensief>
+<defensief>66</defensief>
+<prijs>657000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Felipe Gutiérrez</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>71</uithoudingsvermogen>
+<offensief>68</offensief>
+<defensief>58</defensief>
+<prijs>85000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Hakim Ziyech</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>73</uithoudingsvermogen>
+<offensief>73</offensief>
+<defensief>42</defensief>
+<prijs>543000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Jesús Corona</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>78</uithoudingsvermogen>
+<offensief>62</offensief>
+<defensief>45</defensief>
+<prijs>657000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Joachim Andersen</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>66</uithoudingsvermogen>
+<offensief>43</offensief>
+<defensief>62</defensief>
+<prijs>93000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Kamohelo Mokotjo</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>70</uithoudingsvermogen>
+<offensief>56</offensief>
+<defensief>66</defensief>
+<prijs>500000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Kasper Kusk</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>80</uithoudingsvermogen>
+<offensief>68</offensief>
+<defensief>32</defensief>
+<prijs>200000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Kyle Ebecilio</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>75</uithoudingsvermogen>
+<offensief>59</offensief>
+<defensief>68</defensief>
+<prijs>657000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Luc Castaignos</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>81</uithoudingsvermogen>
+<offensief>73</offensief>
+<defensief>30</defensief>
+<prijs>130000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Rasmus Bengtsson</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>62</uithoudingsvermogen>
+<offensief>43</offensief>
+<defensief>72</defensief>
+<prijs>800000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Renato Tapia</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>58</uithoudingsvermogen>
+<offensief>54</offensief>
+<defensief>60</defensief>
+<prijs>744000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Robbert Schilder</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>57</uithoudingsvermogen>
+<offensief>72</offensief>
+<defensief>67</defensief>
+<prijs>650000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Ryo Miyaichi</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>94</uithoudingsvermogen>
+<offensief>55</offensief>
+<defensief>24</defensief>
+<prijs>130000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Shadrach Eghan</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>80</uithoudingsvermogen>
+<offensief>61</offensief>
+<defensief>39</defensief>
+<prijs>20000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Tim Breukers</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>72</uithoudingsvermogen>
+<offensief>48</offensief>
+<defensief>66</defensief>
+<prijs>190000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Tim Hölscher</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>71</uithoudingsvermogen>
+<offensief>60</offensief>
+<defensief>43</defensief>
+<prijs>150000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Torgeir Børven</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>76</uithoudingsvermogen>
+<offensief>66</offensief>
+<defensief>30</defensief>
+<prijs>456000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Youness Mokhtar</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>77</uithoudingsvermogen>
+<offensief>60</offensief>
+<defensief>37</defensief>
+<prijs>256000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Nick Marsman</naam>
+<type>doelman</type>
+<uithoudingsvermogen>0</uithoudingsvermogen>
+<offensief>0</offensief>
+<defensief>69</defensief>
+<prijs>20000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Sonny Aevens</naam>
+<type>doelman</type>
+<uithoudingsvermogen>0</uithoudingsvermogen>
+<offensief>0</offensief>
+<defensief>68</defensief>
+<prijs>130000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Filip Bednarek</naam>
+<type>doelman</type>
+<uithoudingsvermogen>0</uithoudingsvermogen>
+<offensief>0</offensief>
+<defensief>60</defensief>
+<prijs>650000</prijs>
+<status></status>
+</speler>
+</teamname>
+<teamname id="FC Utrecht" p="0" d="0" w="0" v="0" g="0" dv="0">
+<speler>
+<naam>Adam Sarota</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>69</uithoudingsvermogen>
+<offensief>58</offensief>
+<defensief>59</defensief>
+<prijs>20000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Anouar Kali</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>67</uithoudingsvermogen>
+<offensief>61</offensief>
+<defensief>57</defensief>
+<prijs>190000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Chris Kum</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>74</uithoudingsvermogen>
+<offensief>42</offensief>
+<defensief>66</defensief>
+<prijs>744000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Danny Verbeek</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>84</uithoudingsvermogen>
+<offensief>57</offensief>
+<defensief>24</defensief>
+<prijs>154000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Edouard Duplan</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>69</uithoudingsvermogen>
+<offensief>61</offensief>
+<defensief>36</defensief>
+<prijs>630000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Fernando Quesada</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>64</uithoudingsvermogen>
+<offensief>52</offensief>
+<defensief>43</defensief>
+<prijs>20000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Gévero Markiet</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>63</uithoudingsvermogen>
+<offensief>31</offensief>
+<defensief>63</defensief>
+<prijs>1623000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Gyliano van Velzen</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>80</uithoudingsvermogen>
+<offensief>45</offensief>
+<defensief>27</defensief>
+<prijs>190000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Jeff Hardeveld</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>63</uithoudingsvermogen>
+<offensief>38</offensief>
+<defensief>61</defensief>
+<prijs>1040000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Kai Heerings</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>63</uithoudingsvermogen>
+<offensief>29</offensief>
+<defensief>66</defensief>
+<prijs>97000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Kristoffer Peterson</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>78</uithoudingsvermogen>
+<offensief>60</offensief>
+<defensief>33</defensief>
+<prijs>20000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Leon de Kogel</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>53</uithoudingsvermogen>
+<offensief>68</offensief>
+<defensief>51</defensief>
+<prijs>20000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Mark Diemers</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>64</uithoudingsvermogen>
+<offensief>59</offensief>
+<defensief>56</defensief>
+<prijs>20000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Mark van der Maarel</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>73</uithoudingsvermogen>
+<offensief>41</offensief>
+<defensief>67</defensief>
+<prijs>72000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Michael Zullo</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>81</uithoudingsvermogen>
+<offensief>50</offensief>
+<defensief>59</defensief>
+<prijs>90000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Nacer Barazite</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>72</uithoudingsvermogen>
+<offensief>66</offensief>
+<defensief>30</defensief>
+<prijs>643000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Ramon Leeuwin</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>71</uithoudingsvermogen>
+<offensief>45</offensief>
+<defensief>69</defensief>
+<prijs>230000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Rodney Antwi</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>89</uithoudingsvermogen>
+<offensief>48</offensief>
+<defensief>28</defensief>
+<prijs>80000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Rubio Rubin</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>69</uithoudingsvermogen>
+<offensief>56</offensief>
+<defensief>27</defensief>
+<prijs>82000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Ruud Boymans</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>53</uithoudingsvermogen>
+<offensief>70</offensief>
+<defensief>29</defensief>
+<prijs>870000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Sean Klaiber</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>72</uithoudingsvermogen>
+<offensief>52</offensief>
+<defensief>58</defensief>
+<prijs>65000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Thomas Oar</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>80</uithoudingsvermogen>
+<offensief>60</offensief>
+<defensief>32</defensief>
+<prijs>290000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Willem Janssen</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>65</uithoudingsvermogen>
+<offensief>70</offensief>
+<defensief>60</defensief>
+<prijs>1990000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Yannick Cortie</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>67</uithoudingsvermogen>
+<offensief>33</offensief>
+<defensief>62</defensief>
+<prijs>29900</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Yassin Ayoub</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>71</uithoudingsvermogen>
+<offensief>56</offensief>
+<defensief>66</defensief>
+<prijs>399000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Robbin Ruiter</naam>
+<type>doelman</type>
+<uithoudingsvermogen>0</uithoudingsvermogen>
+<offensief>0</offensief>
+<defensief>75</defensief>
+<prijs>333000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Jeroen Verhoeven</naam>
+<type>doelman</type>
+<uithoudingsvermogen>0</uithoudingsvermogen>
+<offensief>0</offensief>
+<defensief>65</defensief>
+<prijs>350000</prijs>
+<status></status>
+</speler>
+</teamname>
+<teamname id="Feyenoord" p="0" d="0" w="0" v="0" g="0" dv="0"> 
+ <speler> 
+<naam>Jean-Paul Boëtius</naam>
+<prijs>5000000</prijs>
+<type>aanvaller</type>
+<offensief>72</offensief>
+<defensief>30</defensief>
+<uithoudingsvermogen>69</uithoudingsvermogen>
+<status></status>
+</speler> 
+<speler> 
+<naam>Bilal Basaçikoglu</naam>
+<prijs>3500000</prijs>
+<type>aanvaller</type>
+<offensief>66</offensief>
+<defensief>31</defensief>
+<uithoudingsvermogen>74</uithoudingsvermogen>
+<status></status>
+</speler> 
+<speler> 
+<naam>Colin Kazim-Richards</naam>
+<prijs>1000000</prijs>
+<type>aanvaller</type>
+<offensief>72</offensief>
+<defensief>42</defensief>
+<uithoudingsvermogen>72</uithoudingsvermogen>
+<status></status>
+</speler> 
+<speler> 
+<naam>Ruben Schaken</naam>
+<prijs>2000000</prijs>
+<type>aanvaller</type>
+<offensief>66</offensief>
+<defensief>33</defensief>
+<uithoudingsvermogen>65</uithoudingsvermogen>
+<status></status>
+</speler> 
+<speler> 
+<naam>Elvis Manu</naam>
+<prijs>1250000</prijs>
+<type>aanvaller</type>
+<offensief>68</offensief>
+<defensief>31</defensief>
+<uithoudingsvermogen>68</uithoudingsvermogen>
+<status></status>
+</speler> 
+<speler> 
+<naam>Wesley Verhoek</naam>
+<prijs>750000</prijs>
+<type>aanvaller</type>
+<offensief>67</offensief>
+<defensief>36</defensief>
+<uithoudingsvermogen>52</uithoudingsvermogen>
+<status></status>
+</speler> 
+<speler> 
+<naam>Mitchell te Vrede</naam>
+<prijs>123123</prijs>
+<type>aanvaller</type>
+<offensief>63</offensief>
+<defensief>32</defensief>
+<uithoudingsvermogen>64</uithoudingsvermogen>
+<status></status>
+</speler> 
+<speler> 
+<naam>Anass Achahbar</naam>
+<prijs>300000</prijs>
+<type>aanvaller</type>
+<offensief>64</offensief>
+<defensief>31</defensief>
+<uithoudingsvermogen>41</uithoudingsvermogen>
+<status></status>
+</speler> 
+<speler> 
+<naam>Wessel Dammers</naam>
+<prijs>50000</prijs>
+<type>aanvaller</type>
+<offensief>63</offensief>
+<defensief>31</defensief>
+<uithoudingsvermogen>43</uithoudingsvermogen>
+<status></status>
+</speler> 
+<speler> 
+<naam>Jordy Clasie</naam>
+<prijs>8000000</prijs>
+<type>middenvelder</type>
+<offensief>68</offensief>
+<defensief>68</defensief>
+<uithoudingsvermogen>83</uithoudingsvermogen>
+<status></status>
+</speler> 
+<speler> 
+<naam>Karim El Ahmadi</naam>
+<prijs>2500000</prijs>
+<type>middenvelder</type>
+<offensief>69</offensief>
+<defensief>63</defensief>
+<uithoudingsvermogen>84</uithoudingsvermogen>
+<status></status>
+</speler> 
+<speler> 
+<naam>Jens Toornstra</naam>
+<prijs>4000000</prijs>
+<type>middenvelder</type>
+<offensief>74</offensief>
+<defensief>58</defensief>
+<uithoudingsvermogen>90</uithoudingsvermogen>
+<status></status>
+</speler> 
+<speler> 
+<naam>Tonny Vilhena</naam>
+<prijs>5000000</prijs>
+<type>middenvelder</type>
+<offensief>72</offensief>
+<defensief>63</defensief>
+<uithoudingsvermogen>75</uithoudingsvermogen>
+<status></status>
+</speler> 
+<speler> 
+<naam>Lex Immers</naam>
+<prijs>3000000</prijs>
+<type>middenvelder</type>
+<offensief>74</offensief>
+<defensief>63</defensief>
+<uithoudingsvermogen>89</uithoudingsvermogen>
+<status></status>
+</speler> 
+<speler> 
+<naam>Rick Karsdorp</naam>
+<prijs>250000</prijs>
+<type>middenvelder</type>
+<offensief>66</offensief>
+<defensief>51</defensief>
+<uithoudingsvermogen>70</uithoudingsvermogen>
+<status></status>
+</speler> 
+<speler> 
+<naam>Terence Kongolo</naam>
+<prijs>3000000</prijs>
+<type>verdediger</type>
+<offensief>50</offensief>
+<defensief>72</defensief>
+<uithoudingsvermogen>71</uithoudingsvermogen>
+<status></status>
+</speler> 
+<speler> 
+<naam>Joris Mathijsen</naam>
+<prijs>2000000</prijs>
+<type>verdediger</type>
+<offensief>37</offensief>
+<defensief>76</defensief>
+<uithoudingsvermogen>53</uithoudingsvermogen>
+<status></status>
+</speler>
+<speler> 
+<naam>Khalid Boulahrouz</naam>
+<prijs>600000</prijs>
+<type>verdediger</type>ved
+<offensief>49</offensief>
+<defensief>73</defensief>
+<uithoudingsvermogen>44</uithoudingsvermogen>
+<status></status>
+</speler>
+<speler> 
+<naam>Luke Wilkshire</naam>
+<prijs>2000000</prijs>
+<type>verdediger</type>
+<offensief>63</offensief>
+<defensief>68</defensief>
+<uithoudingsvermogen>81</uithoudingsvermogen>
+<status></status>
+</speler>
+<speler> 
+<naam>Miquel Nelom</naam>
+<prijs>1000000</prijs>
+<type>verdediger</type>
+<offensief>64</offensief>
+<defensief>67</defensief>
+<uithoudingsvermogen>75</uithoudingsvermogen>
+<status></status>
+</speler>
+<speler> 
+<naam>Sven van Beek</naam>
+<prijs>700000</prijs>
+<type>verdediger</type>
+<offensief>37</offensief>
+<defensief>67</defensief>
+<uithoudingsvermogen>63</uithoudingsvermogen>
+<status></status>
+</speler>
+<speler> 
+<naam>Lucas Woudenberg</naam>
+<prijs>300000</prijs>
+<type>verdediger</type>
+<offensief>40</offensief>
+<defensief>61</defensief>
+<uithoudingsvermogen>93</uithoudingsvermogen>
+<status></status>
+</speler>
+<speler> 
+<naam>Matthew Steenvoorden</naam>
+<prijs>250000</prijs>
+<type>verdediger</type>
+<offensief>49</offensief>
+<defensief>62</defensief>
+<uithoudingsvermogen>64</uithoudingsvermogen>
+<status></status>
+</speler>
+<speler> 
+<naam>Rodny Lopes Cabral</naam>
+<prijs>50000</prijs>
+<type>verdediger</type>
+<offensief>50</offensief>
+<defensief>59</defensief>
+<uithoudingsvermogen>65</uithoudingsvermogen>
+<status></status>
+</speler>
+<speler> 
+<naam>Kenneth Vermeer</naam>
+<prijs>4000000</prijs>
+<type>doelman</type>
+<offensief>0</offensief>
+<defensief>77</defensief>
+<uithoudingsvermogen>0</uithoudingsvermogen>
+<status></status>
+</speler>
+<speler> 
+<naam>Erwin Mulder</naam>
+<prijs>2500000</prijs>
+<type>doelman</type>
+<offensief>0</offensief>
+<defensief>71</defensief>
+<uithoudingsvermogen>0</uithoudingsvermogen>
+<status></status>
+</speler>
+<speler> 
+<naam>Ronald Graafland</naam>
+<prijs>50000</prijs>
+<type>doelman</type>
+<offensief>0</offensief>
+<defensief>62</defensief>
+<uithoudingsvermogen>0</uithoudingsvermogen>
+<status></status>
+</speler>
+</teamname>
+<teamname id="Go Ahead Eagles" p="0" d="0" w="0" v="0" g="0" dv="0">
+<speler>
+<naam>Alex Schalk</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>73</uithoudingsvermogen>
+<offensief>65</offensief>
+<defensief>29</defensief>
+<prijs>65000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Bart Vriends</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>58</uithoudingsvermogen>
+<offensief>31</offensief>
+<defensief>61</defensief>
+<prijs>744000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Deniz Türüç</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>74</uithoudingsvermogen>
+<offensief>65</offensief>
+<defensief>53</defensief>
+<prijs>65000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Fernando Lewis</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>78</uithoudingsvermogen>
+<offensief>60</offensief>
+<defensief>29</defensief>
+<prijs>154000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Giliano Wijnaldum</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>74</uithoudingsvermogen>
+<offensief>48</offensief>
+<defensief>65</defensief>
+<prijs>20000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Jeffrey Rijsdijk</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>74</uithoudingsvermogen>
+<offensief>65</offensief>
+<defensief>39</defensief>
+<prijs>90000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Jop van der Linden</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>49</uithoudingsvermogen>
+<offensief>45</offensief>
+<defensief>65</defensief>
+<prijs>15400</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Jules Reimerink</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>74</uithoudingsvermogen>
+<offensief>51</offensief>
+<defensief>25</defensief>
+<prijs>54300</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Lars Lambooij</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>70</uithoudingsvermogen>
+<offensief>47</offensief>
+<defensief>58</defensief>
+<prijs>85000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Lesly de Sa</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>88</uithoudingsvermogen>
+<offensief>51</offensief>
+<defensief>27</defensief>
+<prijs>86500</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Marnix Kolder</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>42</uithoudingsvermogen>
+<offensief>68</offensief>
+<defensief>37</defensief>
+<prijs>98700</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Mawouna Amevor</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>74</uithoudingsvermogen>
+<offensief>29</offensief>
+<defensief>62</defensief>
+<prijs>20000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Nick de Bondt</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>77</uithoudingsvermogen>
+<offensief>58</offensief>
+<defensief>26</defensief>
+<prijs>99000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Peter van Ooijen</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>67</uithoudingsvermogen>
+<offensief>62</offensief>
+<defensief>63</defensief>
+<prijs>85000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Puck Postma</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>63</uithoudingsvermogen>
+<offensief>58</offensief>
+<defensief>26</defensief>
+<prijs>86500</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Robin van der Meer</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>47</uithoudingsvermogen>
+<offensief>31</offensief>
+<defensief>60</defensief>
+<prijs>54300</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Sander Duits</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>51</uithoudingsvermogen>
+<offensief>63</offensief>
+<defensief>64</defensief>
+<prijs>154000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Sjoerd Overgoor</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>61</uithoudingsvermogen>
+<offensief>56</offensief>
+<defensief>59</defensief>
+<prijs>98700</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Sven Nieuwpoort</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>74</uithoudingsvermogen>
+<offensief>26</offensief>
+<defensief>62</defensief>
+<prijs>15000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Teije ten Den</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>58</uithoudingsvermogen>
+<offensief>45</offensief>
+<defensief>43</defensief>
+<prijs>90000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Xandro Schenk</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>64</uithoudingsvermogen>
+<offensief>44</offensief>
+<defensief>63</defensief>
+<prijs>19000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Mickey van der Hart</naam>
+<type>doelman</type>
+<uithoudingsvermogen>0</uithoudingsvermogen>
+<offensief>0</offensief>
+<defensief>65</defensief>
+<prijs>162300</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Erik Cummins</naam>
+<type>doelman</type>
+<uithoudingsvermogen>0</uithoudingsvermogen>
+<offensief>0</offensief>
+<defensief>64</defensief>
+<prijs>35400</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Ruben Lucas</naam>
+<type>doelman</type>
+<uithoudingsvermogen>0</uithoudingsvermogen>
+<offensief>0</offensief>
+<defensief>57</defensief>
+<prijs>43000</prijs>
+<status></status>
+</speler>
+</teamname>
+<teamname id="Heracles Almelo" p="0" d="0" w="0" v="0" g="0" dv="0">
+<speler>
+<naam>Aleksei Kangaskolkka</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>55</uithoudingsvermogen>
+<offensief>64</offensief>
+<defensief>35</defensief>
+<prijs>43000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Bart Schenkeveld</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>62</uithoudingsvermogen>
+<offensief>38</offensief>
+<defensief>67</defensief>
+<prijs>430000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Bas Sibum</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>38</uithoudingsvermogen>
+<offensief>48</offensief>
+<defensief>64</defensief>
+<prijs>43000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Bryan Linssen</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>81</uithoudingsvermogen>
+<offensief>74</offensief>
+<defensief>40</defensief>
+<prijs>50000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Coen Gortemaker</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>58</uithoudingsvermogen>
+<offensief>34</offensief>
+<defensief>55</defensief>
+<prijs>93000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Daan Rienstra</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>66</uithoudingsvermogen>
+<offensief>47</offensief>
+<defensief>56</defensief>
+<prijs>10000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Dario Vujicevic</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>66</uithoudingsvermogen>
+<offensief>62</offensief>
+<defensief>34</defensief>
+<prijs>30000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Denni Avdic</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>49</uithoudingsvermogen>
+<offensief>68</offensief>
+<defensief>35</defensief>
+<prijs>10000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Dragan Paljic</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>75</uithoudingsvermogen>
+<offensief>52</offensief>
+<defensief>61</defensief>
+<prijs>97000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Edwin Gyasi</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>88</uithoudingsvermogen>
+<offensief>59</offensief>
+<defensief>28</defensief>
+<prijs>99000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Fahd Aktaou</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>78</uithoudingsvermogen>
+<offensief>43</offensief>
+<defensief>58</defensief>
+<prijs>85000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Illiass Bel Hassani</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>71</uithoudingsvermogen>
+<offensief>61</offensief>
+<defensief>35</defensief>
+<prijs>13000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Jaroslav Navratil</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>69</uithoudingsvermogen>
+<offensief>60</offensief>
+<defensief>27</defensief>
+<prijs>25400</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Jeroen Veldmate</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>33</uithoudingsvermogen>
+<offensief>48</offensief>
+<defensief>64</defensief>
+<prijs>15000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Joey Pelupessy</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>69</uithoudingsvermogen>
+<offensief>41</offensief>
+<defensief>58</defensief>
+<prijs>12000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Mark Engberink</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>61</uithoudingsvermogen>
+<offensief>31</offensief>
+<defensief>59</defensief>
+<prijs>86500</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Mark-Jan Fledderus</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>57</uithoudingsvermogen>
+<offensief>70</offensief>
+<defensief>57</defensief>
+<prijs>20000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Menno Heerkes</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>68</uithoudingsvermogen>
+<offensief>54</offensief>
+<defensief>56</defensief>
+<prijs>25600</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Mike te Wierik</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>64</uithoudingsvermogen>
+<offensief>47</offensief>
+<defensief>68</defensief>
+<prijs>20000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Milano Koenders</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>67</uithoudingsvermogen>
+<offensief>32</offensief>
+<defensief>63</defensief>
+<prijs>80000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Oussama Tannane</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>75</uithoudingsvermogen>
+<offensief>64</offensief>
+<defensief>31</defensief>
+<prijs>97800</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Ramon Zomer</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>52</uithoudingsvermogen>
+<offensief>44</offensief>
+<defensief>65</defensief>
+<prijs>80000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Rick Hemmink</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>48</uithoudingsvermogen>
+<offensief>42</offensief>
+<defensief>57</defensief>
+<prijs>52300</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Simon Cziommer</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>43</uithoudingsvermogen>
+<offensief>68</offensief>
+<defensief>51</defensief>
+<prijs>65000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Thomas Bruns</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>75</uithoudingsvermogen>
+<offensief>61</offensief>
+<defensief>54</defensief>
+<prijs>234000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Wout Weghorst</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>47</uithoudingsvermogen>
+<offensief>64</offensief>
+<defensief>28</defensief>
+<prijs>250000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Dennis Telgenkamp</naam>
+<type>doelman</type>
+<uithoudingsvermogen>0</uithoudingsvermogen>
+<offensief>0</offensief>
+<defensief>65</defensief>
+<prijs>55000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Bram Castro</naam>
+<type>doelman</type>
+<uithoudingsvermogen>0</uithoudingsvermogen>
+<offensief>0</offensief>
+<defensief>64</defensief>
+<prijs>123000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Renze Fij</naam>
+<type>doelman</type>
+<uithoudingsvermogen>0</uithoudingsvermogen>
+<offensief>0</offensief>
+<defensief>59</defensief>
+<prijs>97800</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Michael Brouwer</naam>
+<type>doelman</type>
+<uithoudingsvermogen>0</uithoudingsvermogen>
+<offensief>0</offensief>
+<defensief>59</defensief>
+<prijs>98700</prijs>
+<status></status>
+</speler>
+</teamname>
+<teamname id="NAC Breda" p="0" d="0" w="0" v="0" g="0" dv="0">
+<speler>
+<naam>Adnane Tighadouini</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>77</uithoudingsvermogen>
+<offensief>64</offensief>
+<defensief>32</defensief>
+<prijs>19900</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Elson Hooi</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>89</uithoudingsvermogen>
+<offensief>58</offensief>
+<defensief>28</defensief>
+<prijs>19900</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Erik Falkenburg</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>66</uithoudingsvermogen>
+<offensief>69</offensief>
+<defensief>38</defensief>
+<prijs>199000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Gill Swerts</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>58</uithoudingsvermogen>
+<offensief>43</offensief>
+<defensief>59</defensief>
+<prijs>19900</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Henrico Drost</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>44</uithoudingsvermogen>
+<offensief>38</offensief>
+<defensief>68</defensief>
+<prijs>19900</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Isak Ssewankambo</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>89</uithoudingsvermogen>
+<offensief>36</offensief>
+<defensief>59</defensief>
+<prijs>19900</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Jeffrey Sarpong</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>76</uithoudingsvermogen>
+<offensief>55</offensief>
+<defensief>29</defensief>
+<prijs>19900</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Joeri de Kamps</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>67</uithoudingsvermogen>
+<offensief>46</offensief>
+<defensief>63</defensief>
+<prijs>19900</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Joey Suk</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>45</uithoudingsvermogen>
+<offensief>65</offensief>
+<defensief>57</defensief>
+<prijs>19900</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Kenny van der Weg</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>61</uithoudingsvermogen>
+<offensief>30</offensief>
+<defensief>64</defensief>
+<prijs>19900</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Kingsley Boateng</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>82</uithoudingsvermogen>
+<offensief>64</offensief>
+<defensief>26</defensief>
+<prijs>74400</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Mats Seuntjens</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>67</uithoudingsvermogen>
+<offensief>62</offensief>
+<defensief>57</defensief>
+<prijs>65000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Mounir El Allouchi</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>65</uithoudingsvermogen>
+<offensief>50</offensief>
+<defensief>40</defensief>
+<prijs>87000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Rémy Amieux</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>76</uithoudingsvermogen>
+<offensief>54</offensief>
+<defensief>62</defensief>
+<prijs>45000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Sepp De Roover</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>70</uithoudingsvermogen>
+<offensief>48</offensief>
+<defensief>64</defensief>
+<prijs>98700</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Aipe Perica</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>72</uithoudingsvermogen>
+<offensief>70</offensief>
+<defensief>29</defensief>
+<prijs>85000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Uroš Matic</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>71</uithoudingsvermogen>
+<offensief>62</offensief>
+<defensief>52</defensief>
+<prijs>15000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Aleksandar Damcevski</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>43</uithoudingsvermogen>
+<offensief>31</offensief>
+<defensief>62</defensief>
+<prijs>200000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Jelle ten Rouwelaar</naam>
+<type>doelman</type>
+<uithoudingsvermogen>0</uithoudingsvermogen>
+<offensief>0</offensief>
+<defensief>70</defensief>
+<prijs>254000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Gábor Babos</naam>
+<type>doelman</type>
+<uithoudingsvermogen>0</uithoudingsvermogen>
+<offensief>0</offensief>
+<defensief>66</defensief>
+<prijs>256000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Andries Noppert</naam>
+<type>doelman</type>
+<uithoudingsvermogen>0</uithoudingsvermogen>
+<offensief>0</offensief>
+<defensief>61</defensief>
+<prijs>120000</prijs>
+<status></status>
+</speler>
+</teamname>
+<teamname id="PEC Zwolle" p="0" d="0" w="0" v="0" g="0" dv="0">
+<speler>
+<naam>Tomáš Necid</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>72</uithoudingsvermogen>
+<offensief>76</offensief>
+<defensief>34</defensief>
+<prijs>1300000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Bart van Hintum</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>67</uithoudingsvermogen>
+<offensief>50</offensief>
+<defensief>65</defensief>
+<prijs>87000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Ben Rienstra</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>60</uithoudingsvermogen>
+<offensief>54</offensief>
+<defensief>67</defensief>
+<prijs>200000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Bram van Polen</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>74</uithoudingsvermogen>
+<offensief>47</offensief>
+<defensief>67</defensief>
+<prijs>744000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Jesper Drost</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>74</uithoudingsvermogen>
+<offensief>64</offensief>
+<defensief>62</defensief>
+<prijs>650000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Jody Lukoki</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>93</uithoudingsvermogen>
+<offensief>51</offensief>
+<defensief>26</defensief>
+<prijs>74400</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Joost Broerse</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>34</uithoudingsvermogen>
+<offensief>56</offensief>
+<defensief>66</defensief>
+<prijs>25600</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Leroy Labylle</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>73</uithoudingsvermogen>
+<offensief>56</offensief>
+<defensief>53</defensief>
+<prijs>120000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Maikel van der Werff</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>65</uithoudingsvermogen>
+<offensief>40</offensief>
+<defensief>67</defensief>
+<prijs>123000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Mustafa Saymak</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>83</uithoudingsvermogen>
+<offensief>64</offensief>
+<defensief>25</defensief>
+<prijs>256000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Nikolaos Ioannidis</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>70</uithoudingsvermogen>
+<offensief>61</offensief>
+<defensief>27</defensief>
+<prijs>154000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Rick Dekker</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>74</uithoudingsvermogen>
+<offensief>51</offensief>
+<defensief>60</defensief>
+<prijs>87000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Ryan Thomas</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>74</uithoudingsvermogen>
+<offensief>51</offensief>
+<defensief>36</defensief>
+<prijs>87000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Soufian Moro</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>75</uithoudingsvermogen>
+<offensief>59</offensief>
+<defensief>27</defensief>
+<prijs>25000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Aef Nijland</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>66</uithoudingsvermogen>
+<offensief>63</offensief>
+<defensief>30</defensief>
+<prijs>234000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Aeven Pereira</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>70</uithoudingsvermogen>
+<offensief>30</offensief>
+<defensief>59</defensief>
+<prijs>80000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Thanasis Karagounis</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>75</uithoudingsvermogen>
+<offensief>59</offensief>
+<defensief>27</defensief>
+<prijs>55000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Thomas Lam</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>63</uithoudingsvermogen>
+<offensief>44</offensief>
+<defensief>63</defensief>
+<prijs>130000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Trent Sainsbury</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>73</uithoudingsvermogen>
+<offensief>53</offensief>
+<defensief>66</defensief>
+<prijs>80000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Wouter Marinus</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>76</uithoudingsvermogen>
+<offensief>63</offensief>
+<defensief>34</defensief>
+<prijs>250000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Warner Hahn</naam>
+<type>doelman</type>
+<uithoudingsvermogen>0</uithoudingsvermogen>
+<offensief>0</offensief>
+<defensief>68</defensief>
+<prijs>45000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Kevin Begois</naam>
+<type>doelman</type>
+<uithoudingsvermogen>0</uithoudingsvermogen>
+<offensief>0</offensief>
+<defensief>64</defensief>
+<prijs>97800</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Boy de Jong</naam>
+<type>doelman</type>
+<uithoudingsvermogen>0</uithoudingsvermogen>
+<offensief>0</offensief>
+<defensief>63</defensief>
+<prijs>10000</prijs>
+<status></status>
+</speler>
+</teamname>
+<teamname id="PSV" p="0" d="0" w="0" v="0" g="0" dv="0">
+<speler>
+<naam>Abel Tamata</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>71</uithoudingsvermogen>
+<offensief>48</offensief>
+<defensief>66</defensief>
+<prijs>65000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Adam Maher</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>75</uithoudingsvermogen>
+<offensief>70</offensief>
+<defensief>53</defensief>
+<prijs>93000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Andrés Guardado</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>82</uithoudingsvermogen>
+<offensief>67</offensief>
+<defensief>76</defensief>
+<prijs>99000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Clint Leemans</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>65</uithoudingsvermogen>
+<offensief>56</offensief>
+<defensief>53</defensief>
+<prijs>10000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Florian Jozefzoon</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>90</uithoudingsvermogen>
+<offensief>59</offensief>
+<defensief>24</defensief>
+<prijs>354000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Georginio Wijnaldum</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>83</uithoudingsvermogen>
+<offensief>73</offensief>
+<defensief>63</defensief>
+<prijs>1990000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Jeffrey Bruma</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>67</uithoudingsvermogen>
+<offensief>53</offensief>
+<defensief>70</defensief>
+<prijs>430000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Jetro Willems</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>80</uithoudingsvermogen>
+<offensief>57</offensief>
+<defensief>71</defensief>
+<prijs>86500</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Jorrit Hendrix</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>71</uithoudingsvermogen>
+<offensief>34</offensief>
+<defensief>68</defensief>
+<prijs>54300</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Joshua Brenet</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>86</uithoudingsvermogen>
+<offensief>32</offensief>
+<defensief>67</defensief>
+<prijs>30000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Jürgen Locadia</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>74</uithoudingsvermogen>
+<offensief>74</offensief>
+<defensief>34</defensief>
+<prijs>97000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Karim Rekik</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>73</uithoudingsvermogen>
+<offensief>38</offensief>
+<defensief>72</defensief>
+<prijs>430000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Luciano Narsingh</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>93</uithoudingsvermogen>
+<offensief>62</offensief>
+<defensief>28</defensief>
+<prijs>25600</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Luuk de Jong</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>64</uithoudingsvermogen>
+<offensief>75</offensief>
+<defensief>43</defensief>
+<prijs>65700</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Marcel Ritzmaier</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>72</uithoudingsvermogen>
+<offensief>65</offensief>
+<defensief>57</defensief>
+<prijs>72000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Memphis Depay</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>91</uithoudingsvermogen>
+<offensief>71</offensief>
+<defensief>28</defensief>
+<prijs>82000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Menno Koch</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>65</uithoudingsvermogen>
+<offensief>32</offensief>
+<defensief>65</defensief>
+<prijs>487000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Nicolas Isimat-Mirin</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>69</uithoudingsvermogen>
+<offensief>33</offensief>
+<defensief>70</defensief>
+<prijs>230000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Oscar Hiljemark</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>68</uithoudingsvermogen>
+<offensief>58</offensief>
+<defensief>66</defensief>
+<prijs>543000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Rai Vloet</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>65</uithoudingsvermogen>
+<offensief>62</offensief>
+<defensief>29</defensief>
+<prijs>120000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Santiago Arias</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>87</uithoudingsvermogen>
+<offensief>43</offensief>
+<defensief>69</defensief>
+<prijs>600000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Aijn Schaars</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>51</uithoudingsvermogen>
+<offensief>68</offensief>
+<defensief>69</defensief>
+<prijs>354000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Zakaria Bakkali</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>85</uithoudingsvermogen>
+<offensief>63</offensief>
+<defensief>25</defensief>
+<prijs>82000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Aleksandar Boljevic</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>79</uithoudingsvermogen>
+<offensief>58</offensief>
+<defensief>23</defensief>
+<prijs>80000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Jeroen Zoet</naam>
+<type>doelman</type>
+<uithoudingsvermogen>0</uithoudingsvermogen>
+<offensief>0</offensief>
+<defensief>77</defensief>
+<prijs>657000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Remko Pasveer</naam>
+<type>doelman</type>
+<uithoudingsvermogen>0</uithoudingsvermogen>
+<offensief>0</offensief>
+<defensief>71</defensief>
+<prijs>1200000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Nigel Bertrams</naam>
+<type>doelman</type>
+<uithoudingsvermogen>0</uithoudingsvermogen>
+<offensief>0</offensief>
+<defensief>62</defensief>
+<prijs>865000</prijs>
+<status></status>
+</speler>
+</teamname>
+<teamname id="SC Cambuur Leeuwarden" p="0" d="0" w="0" v="0" g="0" dv="0">
+<speler>
+<naam>Albert Rusnák</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>76</uithoudingsvermogen>
+<offensief>53</offensief>
+<defensief>34</defensief>
+<prijs>123000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Berend Schootstra</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>57</uithoudingsvermogen>
+<offensief>45</offensief>
+<defensief>57</defensief>
+<prijs>20000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Bob Schepers</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>76</uithoudingsvermogen>
+<offensief>60</offensief>
+<defensief>35</defensief>
+<prijs>130000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Calvin Mac-Intosh</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>68</uithoudingsvermogen>
+<offensief>38</offensief>
+<defensief>65</defensief>
+<prijs>657000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Daniel de Ridder</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>70</uithoudingsvermogen>
+<offensief>63</offensief>
+<defensief>36</defensief>
+<prijs>60000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Dejan Meleg</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>67</uithoudingsvermogen>
+<offensief>65</offensief>
+<defensief>28</defensief>
+<prijs>74400</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Erik Bakker</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>72</uithoudingsvermogen>
+<offensief>60</offensief>
+<defensief>48</defensief>
+<prijs>99000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Etiënne Reijnen</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>42</uithoudingsvermogen>
+<offensief>32</offensief>
+<defensief>65</defensief>
+<prijs>360000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Furdjel Narsingh</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>84</uithoudingsvermogen>
+<offensief>55</offensief>
+<defensief>34</defensief>
+<prijs>970050</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Lucas Bijker</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>75</uithoudingsvermogen>
+<offensief>34</offensief>
+<defensief>63</defensief>
+<prijs>19900</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Marlon Pereira</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>69</uithoudingsvermogen>
+<offensief>31</offensief>
+<defensief>63</defensief>
+<prijs>430000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Mart Dijkstra</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>48</uithoudingsvermogen>
+<offensief>52</offensief>
+<defensief>64</defensief>
+<status></status>
+<prijs>256000</prijs>
+</speler>
+<speler>
+<naam>Martijn Barto</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>60</uithoudingsvermogen>
+<offensief>65</offensief>
+<defensief>29</defensief>
+<prijs>100000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Michiel Hemmen</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>42</uithoudingsvermogen>
+<offensief>68</offensief>
+<defensief>29</defensief>
+<prijs>300000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Mohamed El Makrini</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>59</uithoudingsvermogen>
+<offensief>43</offensief>
+<defensief>65</defensief>
+<prijs>230000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Oebele Schokker</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>41</uithoudingsvermogen>
+<offensief>63</offensief>
+<defensief>34</defensief>
+<prijs>76000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Ron Janzen</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>54</uithoudingsvermogen>
+<offensief>30</offensief>
+<defensief>60</defensief>
+<prijs>15000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Sander van de Areek</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>62</uithoudingsvermogen>
+<offensief>59</offensief>
+<defensief>40</defensief>
+<prijs>35400</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Sebastian Steblecki</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>69</uithoudingsvermogen>
+<offensief>59</offensief>
+<defensief>44</defensief>
+<prijs>12000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Vytautas Andriuškevicius</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>67</uithoudingsvermogen>
+<offensief>40</offensief>
+<defensief>62</defensief>
+<prijs>20000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Wout Droste</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>75</uithoudingsvermogen>
+<offensief>28</offensief>
+<defensief>64</defensief>
+<prijs>85000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Bartholomew Ogbeche</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>81</uithoudingsvermogen>
+<offensief>64</offensief>
+<defensief>27</defensief>
+<prijs>64300</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Leonard Nienhuis</naam>
+<type>doelman</type>
+<uithoudingsvermogen>0</uithoudingsvermogen>
+<offensief>0</offensief>
+<defensief>66</defensief>
+<prijs>500000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Harm Zeinstra</naam>
+<type>doelman</type>
+<uithoudingsvermogen>0</uithoudingsvermogen>
+<offensief>0</offensief>
+<defensief>61</defensief>
+<prijs>55000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Jurjan Wouda</naam>
+<type>doelman</type>
+<uithoudingsvermogen>0</uithoudingsvermogen>
+<offensief>0</offensief>
+<defensief>61</defensief>
+<prijs>154000</prijs>
+<status></status>
+</speler>
+</teamname>
+<teamname id="SC Heerenveen" p="0" d="0" w="0" v="0" g="0" dv="0">
+<speler>
+<naam>Daley Sinkgraven</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>73</uithoudingsvermogen>
+<offensief>48</offensief>
+<defensief>51</defensief>
+<prijs>20000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Doke Schmidt</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>67</uithoudingsvermogen>
+<offensief>46</offensief>
+<defensief>64</defensief>
+<prijs>200000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Janio Bikel</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>74</uithoudingsvermogen>
+<offensief>35</offensief>
+<defensief>60</defensief>
+<prijs>150000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Jens Jurn Areutker</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>64</uithoudingsvermogen>
+<offensief>40</offensief>
+<defensief>63</defensief>
+<prijs>744000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Jeroen Lumu</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>84</uithoudingsvermogen>
+<offensief>62</offensief>
+<defensief>28</defensief>
+<prijs>154000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Joey van den Berg</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>61</uithoudingsvermogen>
+<offensief>62</offensief>
+<defensief>64</defensief>
+<prijs>154000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Joost van Aken</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>72</uithoudingsvermogen>
+<offensief>31</offensief>
+<defensief>64</defensief>
+<prijs>154000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Jordy Buijs</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>53</uithoudingsvermogen>
+<offensief>61</offensief>
+<defensief>65</defensief>
+<prijs>500000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Joris Voest</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>74</uithoudingsvermogen>
+<offensief>43</offensief>
+<defensief>59</defensief>
+<prijs>23000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Jukka Raitala</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>69</uithoudingsvermogen>
+<offensief>35</offensief>
+<defensief>64</defensief>
+<prijs>744000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Kenneth Otigba</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>75</uithoudingsvermogen>
+<offensief>35</offensief>
+<defensief>65</defensief>
+<prijs>25000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Luciano Slagveer</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>87</uithoudingsvermogen>
+<offensief>60</offensief>
+<defensief>30</defensief>
+<prijs>978000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Mark Uth</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>71</uithoudingsvermogen>
+<offensief>64</offensief>
+<defensief>32</defensief>
+<prijs>54300</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Marten de Roon</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>67</uithoudingsvermogen>
+<offensief>57</offensief>
+<defensief>63</defensief>
+<prijs>80000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Michael Chacón</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>74</uithoudingsvermogen>
+<offensief>44</offensief>
+<defensief>59</defensief>
+<prijs>40000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Morten Thorsby</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>62</uithoudingsvermogen>
+<offensief>44</offensief>
+<defensief>39</defensief>
+<prijs>34600</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Pascal Huser</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>64</uithoudingsvermogen>
+<offensief>56</offensief>
+<defensief>27</defensief>
+<prijs>80000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Pelé van Anholt</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>77</uithoudingsvermogen>
+<offensief>53</offensief>
+<defensief>67</defensief>
+<prijs>53000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Sam Larsson</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>76</uithoudingsvermogen>
+<offensief>58</offensief>
+<defensief>29</defensief>
+<prijs>12000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Stefano Marzo</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>75</uithoudingsvermogen>
+<offensief>29</offensief>
+<defensief>64</defensief>
+<prijs>35400</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Stephen Warmolts</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>60</uithoudingsvermogen>
+<offensief>31</offensief>
+<defensief>57</defensief>
+<prijs>40000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Thomas Dalgaard</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>62</uithoudingsvermogen>
+<offensief>68</offensief>
+<defensief>29</defensief>
+<prijs>52300</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Willem Huizing</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>59</uithoudingsvermogen>
+<offensief>29</offensief>
+<defensief>61</defensief>
+<prijs>99000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Kristoffer Nordfeldt</naam>
+<type>doelman</type>
+<uithoudingsvermogen>0</uithoudingsvermogen>
+<offensief>0</offensief>
+<defensief>71</defensief>
+<prijs>64300</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Viktor Noring</naam>
+<type>doelman</type>
+<uithoudingsvermogen>0</uithoudingsvermogen>
+<offensief>0</offensief>
+<defensief>66</defensief>
+<prijs>30000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Maarten de Fockert</naam>
+<type>doelman</type>
+<uithoudingsvermogen>0</uithoudingsvermogen>
+<offensief>0</offensief>
+<defensief>60</defensief>
+<prijs>20000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Robin Kist</naam>
+<type>doelman</type>
+<uithoudingsvermogen>0</uithoudingsvermogen>
+<offensief>0</offensief>
+<defensief>58</defensief>
+<prijs>76000</prijs>
+<status></status>
+</speler>
+</teamname>
+<teamname id="Vitesse" p="0" d="0" w="0" v="0" g="0" dv="0">
+<speler>
+<naam>Arnold Kruiswijk</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>52</uithoudingsvermogen>
+<offensief>44</offensief>
+<defensief>71</defensief>
+<prijs>50000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Bertrand Traoré</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>87</uithoudingsvermogen>
+<offensief>66</offensief>
+<defensief>31</defensief>
+<prijs>19900</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Dan Mori</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>48</uithoudingsvermogen>
+<offensief>31</offensief>
+<defensief>66</defensief>
+<prijs>93000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Davy Pröpper</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>70</uithoudingsvermogen>
+<offensief>70</offensief>
+<defensief>56</defensief>
+<prijs>86500</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Denys Oliynyk</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>74</uithoudingsvermogen>
+<offensief>53</offensief>
+<defensief>41</defensief>
+<prijs>15400</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Gino Bosz</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>67</uithoudingsvermogen>
+<offensief>53</offensief>
+<defensief>52</defensief>
+<prijs>72000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Guram Kashia</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>59</uithoudingsvermogen>
+<offensief>29</offensief>
+<defensief>74</defensief>
+<prijs>200000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Jan-Arie van der Heijden</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>47</uithoudingsvermogen>
+<offensief>61</offensief>
+<defensief>72</defensief>
+<prijs>300000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Josh McEachran</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>76</uithoudingsvermogen>
+<offensief>66</offensief>
+<defensief>58</defensief>
+<prijs>1200000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Kelvin Leerdam</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>75</uithoudingsvermogen>
+<offensief>58</offensief>
+<defensief>70</defensief>
+<prijs>650000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Kevin Diks</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>60</uithoudingsvermogen>
+<offensief>35</offensief>
+<defensief>61</defensief>
+<prijs>243000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Marko Vejinovic</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>61</uithoudingsvermogen>
+<offensief>70</offensief>
+<defensief>68</defensief>
+<prijs>450000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Renato Ibarra</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>90</uithoudingsvermogen>
+<offensief>64</offensief>
+<defensief>44</defensief>
+<prijs>35000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Rochdi Achenteh</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>68</uithoudingsvermogen>
+<offensief>52</offensief>
+<defensief>65</defensief>
+<prijs>97000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Uroš Ðurdevic</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>69</uithoudingsvermogen>
+<offensief>67</offensief>
+<defensief>30</defensief>
+<prijs>75800</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Valeri Qazaishvili</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>72</uithoudingsvermogen>
+<offensief>69</offensief>
+<defensief>35</defensief>
+<prijs>50000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Wallace</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>81</uithoudingsvermogen>
+<offensief>60</offensief>
+<defensief>63</defensief>
+<prijs>64300</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Zakaria Labyad</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>78</uithoudingsvermogen>
+<offensief>70</offensief>
+<defensief>31</defensief>
+<prijs>20000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Piet Velthuizen</naam>
+<type>doelman</type>
+<uithoudingsvermogen>0</uithoudingsvermogen>
+<offensief>0</offensief>
+<defensief>75</defensief>
+<prijs>76000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Eloy Room</naam>
+<type>doelman</type>
+<uithoudingsvermogen>0</uithoudingsvermogen>
+<offensief>0</offensief>
+<defensief>67</defensief>
+<prijs>354000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Jeroen Houwen</naam>
+<type>doelman</type>
+<uithoudingsvermogen>0</uithoudingsvermogen>
+<offensief>0</offensief>
+<defensief>60</defensief>
+<prijs>60000</prijs>
+<status></status>
+</speler>
+</teamname>
+<teamname id="Willem II" p="0" d="0" w="0" v="0" g="0" dv="0">
+<speler>
+<naam>Ali Messaoud</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>65</uithoudingsvermogen>
+<offensief>61</offensief>
+<defensief>26</defensief>
+<prijs>86500</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Ben Sahar</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>78</uithoudingsvermogen>
+<offensief>71</offensief>
+<defensief>30</defensief>
+<prijs>320000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Bruno Andrade</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>71</uithoudingsvermogen>
+<offensief>65</offensief>
+<defensief>28</defensief>
+<prijs>650000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Charlton Vicento</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>87</uithoudingsvermogen>
+<offensief>60</offensief>
+<defensief>25</defensief>
+<prijs>12000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Dries Wuytens</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>64</uithoudingsvermogen>
+<offensief>26</offensief>
+<defensief>63</defensief>
+<prijs>200000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Fabian Sporkslede</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>69</uithoudingsvermogen>
+<offensief>52</offensief>
+<defensief>63</defensief>
+<prijs>157000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Frank van der Struijk</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>56</uithoudingsvermogen>
+<offensief>38</offensief>
+<defensief>66</defensief>
+<prijs>12000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Freek Heerkens</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>67</uithoudingsvermogen>
+<offensief>27</offensief>
+<defensief>61</defensief>
+<prijs>123000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Jerson Cabral</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>81</uithoudingsvermogen>
+<offensief>64</offensief>
+<defensief>32</defensief>
+<prijs>154000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Jonas Heymans</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>73</uithoudingsvermogen>
+<offensief>43</offensief>
+<defensief>63</defensief>
+<prijs>19900</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Jordens Peters</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>64</uithoudingsvermogen>
+<offensief>35</offensief>
+<defensief>66</defensief>
+<prijs>54300</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Mitchell Dijks</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>68</uithoudingsvermogen>
+<offensief>39</offensief>
+<defensief>67</defensief>
+<prijs>45000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Niek Vossebelt</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>52</uithoudingsvermogen>
+<offensief>55</offensief>
+<defensief>59</defensief>
+<prijs>60050</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Renan Zanelli</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>66</uithoudingsvermogen>
+<offensief>46</offensief>
+<defensief>48</defensief>
+<prijs>25600</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Ricardo Ippel</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>67</uithoudingsvermogen>
+<offensief>61</offensief>
+<defensief>57</defensief>
+<prijs>30000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Robbie Haemhouts</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>63</uithoudingsvermogen>
+<offensief>63</offensief>
+<defensief>59</defensief>
+<prijs>93000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Samuel Armenteros</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>68</uithoudingsvermogen>
+<offensief>68</offensief>
+<defensief>32</defensief>
+<prijs>99000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Simon van Zeelst</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>64</uithoudingsvermogen>
+<offensief>42</offensief>
+<defensief>60</defensief>
+<prijs>43000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Stijn Wuytens</naam>
+<type>middenvelder</type>
+<uithoudingsvermogen>63</uithoudingsvermogen>
+<offensief>49</offensief>
+<defensief>59</defensief>
+<prijs>55000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Terell Ondaan</naam>
+<type>aanvaller</type>
+<uithoudingsvermogen>89</uithoudingsvermogen>
+<offensief>61</offensief>
+<defensief>28</defensief>
+<prijs>143000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Tim Cornelisse</naam>
+<type>verdediger</type>
+<uithoudingsvermogen>37</uithoudingsvermogen>
+<offensief>45</offensief>
+<defensief>66</defensief>
+<prijs>60000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Konstantinos Lamprou</naam>
+<type>doelman</type>
+<uithoudingsvermogen>0</uithoudingsvermogen>
+<offensief>0</offensief>
+<defensief>66</defensief>
+<prijs>86500</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>David Meul</naam>
+<type>doelman</type>
+<uithoudingsvermogen>0</uithoudingsvermogen>
+<offensief>0</offensief>
+<defensief>61</defensief>
+<prijs>50000</prijs>
+<status></status>
+</speler>
+<speler>
+<naam>Mattijs Branderhorst</naam>
+<type>doelman</type>
+<uithoudingsvermogen>0</uithoudingsvermogen>
+<offensief>0</offensief>
+<defensief>58</defensief>
+<prijs>15000</prijs>
+<status></status>
+</speler>
+</teamname>
+</teams>
+</xml>

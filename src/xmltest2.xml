@@ -1,0 +1,16 @@
+<xml>
+<teams> 
+<teamname id="Ajax" p="0" d="0" w="0" v="0" g="0" dv="0">
+</teamname>
+<teamname id="Feyenoord" p="0" d="0" w="0" v="0" g="0" dv="0">
+</teamname>
+</teams>
+<huidigspel>
+<speelronde id="1">
+<wedstrijd>Ajax-Feyenoord</wedstrijd>
+</speelronde>
+<speelronde id="2">
+<wedstrijd>Feyenoord-Ajax</wedstrijd>
+</speelronde>
+</huidigspel>
+</xml>

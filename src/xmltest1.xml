@@ -1,0 +1,52 @@
+<xml>
+<teams> 
+<teamname id="Ajax" p="0" d="0" w="0" v="0" g="0" dv="0">
+<speler> 
+<naam>Anwar El Ghazi</naam>
+<nummer>21</nummer>
+<prijs>1500000</prijs>
+<type>aanvaller</type>
+<offensief>69</offensief>
+<defensief>31</defensief>
+<uithoudingsvermogen>58</uithoudingsvermogen>
+<status></status>
+</speler> 
+<speler> 
+<naam>Davy Klaassen</naam>
+<nummer>10</nummer>
+<prijs>4500000</prijs>
+<type>middenvelder</type>
+<offensief>75</offensief>
+<defensief>63</defensief>
+<uithoudingsvermogen>79</uithoudingsvermogen>
+<status></status>
+</speler>
+<speler> 
+<naam>Nicolai Boilesen</naam>
+<nummer>5</nummer>
+<prijs>2000000</prijs>
+<type>verdediger</type>
+<offensief>56</offensief>
+<defensief>62</defensief>
+<uithoudingsvermogen>77</uithoudingsvermogen>
+<status></status>
+</speler> 
+<speler> 
+<naam>Jasper Cillessen</naam>
+<nummer>1</nummer>
+<prijs>8000000</prijs>
+<type>doelman</type>
+<offensief>0</offensief>
+<defensief>79</defensief>
+<uithoudingsvermogen>0</uithoudingsvermogen>
+<status></status>
+</speler> 
+</teamname>
+</teams>
+<manager>
+<naam>Klaas</naam>
+<team>Ajax</team>
+<budget>100000</budget>
+<speelrondenr>1</speelrondenr>
+</manager>
+</xml>
